@@ -1,2 +1,2 @@
 # react-themoviedb
- The Movie Db React app
+ The Movie Database API react app
